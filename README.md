@@ -6,7 +6,8 @@
 <body>
 
 <div class="header">
-    <h1>Hi! I'm Ellina </h1>
+    <h1>Hi! I'm Ellina</a> 
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
     <p> I'm a certified Quality Assurance engineer with 4 years expirience </p>
 </div>
 
